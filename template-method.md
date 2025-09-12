@@ -31,7 +31,7 @@ ASCII diagram of the structure:
           |
    -----------------
    |               |
-+--------+   +------------+
++---------+   +-----------+
 |SubclassA|   | SubclassB |
 | step2() |   | step2()   |
 | step3() |   | step3()   |
