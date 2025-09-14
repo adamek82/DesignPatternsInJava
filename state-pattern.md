@@ -423,6 +423,9 @@ class FileContextSealed {
 }
 ```
 
+*Demo is identical to `FileEnumDemo`, only using `FileContextSealed` instead of `FileContext`.*
+
+
 
 ---
 
