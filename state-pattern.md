@@ -58,6 +58,9 @@ That “big if/switch” scatters across many methods and becomes hard to evolve
 
 ## 2) “Hello, State” in 30 Seconds (refining the classic example)
 
+*Note:* This is a deliberately simple and not very realistic example — its purpose is just to give a first impression of the core concepts. The example originates from Bruce Eckel’s *Thinking in Java* and has been adapted here.
+
+
 A minimal example: a `Stage` delegates to an `Actor`. Changing the `Actor` at runtime changes behavior.
 
 ```java
